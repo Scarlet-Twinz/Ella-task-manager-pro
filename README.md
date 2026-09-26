@@ -1,4 +1,4 @@
-#  Task Master
+# Task Master
 
 A simple browser-based task manager for creating, viewing, and deleting personal tasks.
 
